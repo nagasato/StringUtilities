@@ -49,6 +49,9 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="..\StringUtilitiesTests\ByteStringExtensionsTest.cs">
+      <Link>ByteStringExtensionsTest.cs</Link>
+    </Compile>
     <Compile Include="..\StringUtilitiesTests\StringExtensionsTests.cs">
       <Link>StringExtensionsTests.cs</Link>
     </Compile>
